@@ -13,4 +13,4 @@ bsc -u -verilog -elab \
 <file_name.bsv>
 ```
 
-add the file in the place holder ```<filename.bsv>```.
+replace the file name in the place holder ```<filename.bsv>```.
