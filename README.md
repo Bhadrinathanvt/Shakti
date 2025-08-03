@@ -1,5 +1,6 @@
+### Verifying Individual Files
 To check for errors in individually developed BSV files without running the full ```make generate_verilog``` process:
-```
+```bash
 bsc -u -verilog -elab \
 -vdir build/hw/verilog \
 -bdir build/hw/intermediate \
