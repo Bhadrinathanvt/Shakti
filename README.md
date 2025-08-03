@@ -1,3 +1,4 @@
+---
 ### Verifying Individual Files
 To check for errors in individually developed BSV files without running the full ```make generate_verilog``` process:
 ```bash
@@ -13,3 +14,5 @@ bsc -u -verilog -elab \
 ```
 
 add the file in the place holder ```<filename.bsv>```.
+
+---
